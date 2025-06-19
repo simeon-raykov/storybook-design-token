@@ -1,5 +1,6 @@
 import React from "react";
 import { useMemo } from "react";
+//@ts-ignore Temp fix to generate DTS files
 import { styled } from "@storybook/theming";
 import { useTokenSearch } from "../hooks/useTokenSearch";
 import { useTokenTabs } from "../hooks/useTokenTabs";
